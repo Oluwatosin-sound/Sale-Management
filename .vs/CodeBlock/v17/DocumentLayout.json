@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\CodeBlock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|c:\\users\\user\\source\\repos\\codeblock\\codeblock\\salesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|solutionrelative:codeblock\\salesitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|c:\\users\\user\\source\\repos\\codeblock\\codeblock\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|solutionrelative:codeblock\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|c:\\users\\user\\source\\repos\\codeblock\\codeblock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A15DAE31-8D19-468F-A2A9-99B8DD0BA38C}|CodeBlock\\CodeBlock.csproj|solutionrelative:codeblock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\SalesItem.cs",
+              "RelativeDocumentMoniker": "CodeBlock\\SalesItem.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\SalesItem.cs",
+              "RelativeToolTip": "CodeBlock\\SalesItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:41:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\Sales.cs",
+              "RelativeDocumentMoniker": "CodeBlock\\Sales.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\Sales.cs",
+              "RelativeToolTip": "CodeBlock\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:41:36.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\Program.cs",
+              "RelativeDocumentMoniker": "CodeBlock\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\CodeBlock\\CodeBlock\\Program.cs",
+              "RelativeToolTip": "CodeBlock\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T17:17:44.89Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
